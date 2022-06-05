@@ -1,0 +1,2 @@
+common disgn patterns 
+SOLID
